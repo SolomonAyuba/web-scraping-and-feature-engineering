@@ -18,3 +18,6 @@
 1. The final CSV file containing the scraped data.
 2. A Jupyter Notebook with the Python code and a step-by-step explanation.
 3. At least two visualisations (e.g., a pie chart for affordability, bar chart for ratings).
+
+
+© [Miva Open University](https://miva.university/) 03.29.2025
